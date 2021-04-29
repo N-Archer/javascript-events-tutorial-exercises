@@ -4,10 +4,3 @@ window.onload = function myLoadFunction() {
 };
 
 //the listener function here
-
-function newAlert() {
-	alert("wuju");
-}
-
-
-document.querySelector("#theGreen").addEventListener("click", newAlert);
